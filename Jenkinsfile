@@ -1,4 +1,4 @@
-def secret = 'sshgit'
+def secret = 'general'
 def vmapps = 'imron@34.126.103.225'
 def dir = '/home/imron/dumbflix-frontend'
 def branch = 'main'
