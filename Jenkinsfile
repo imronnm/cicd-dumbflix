@@ -1,7 +1,7 @@
 def secret = 'sshgit'
-def vmapps = 'imronvin@10.148.0.5'
+def vmapps = 'imron@34.126.103.225'
 def dir = '/home/imron/dumbflix-frontend'
-def branch = 'master'
+def branch = 'main'
 
 pipeline {
     agent any
